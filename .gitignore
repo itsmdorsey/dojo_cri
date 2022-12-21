@@ -1,8 +1,8 @@
-dojotoolkit/
+dojotoolkit/*
 !dojotoolkit/dijit
-dojotoolkit/dijit/
+dojotoolkit/dijit/*
 !dojotoolkit/dijit/themes/
-dojotoolkit/dijit/themes/
+dojotoolkit/dijit/themes/*
 !dojotoolkit/dijit/themes/themeTester.html
 
 
