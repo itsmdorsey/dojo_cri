@@ -1,3 +1,5 @@
 dojotoolkit/
 
-!dojotoolkit/dijit/themes/themeTester.html
+#!dojotoolkit/dijit/themes/themeTester.html
+
+*.html
